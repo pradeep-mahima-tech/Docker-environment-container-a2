@@ -61,3 +61,4 @@ uritemplate
 urllib3
 Werkzeug
 XlsxWriter
+gevent>=1.4.0
